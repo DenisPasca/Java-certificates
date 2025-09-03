@@ -1,7 +1,7 @@
 
-# My Certificates
 
-Here are the certificates I’ve earned:
+
+#Here are the certificates I’ve earned:
 
 ## [MOOC JAVA PROGRAMMING I](./certificate-java-programming-i.png)
 
