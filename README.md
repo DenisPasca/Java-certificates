@@ -11,4 +11,4 @@ Here are the certificates I’ve earned:
 
 
 
-## [Certificate 2](./Betfair-Java-Bootcamp.pdf)
+## [BETFAIR JAVA BOOTCAMP](./Betfair-Java-Bootcamp.pdf)
